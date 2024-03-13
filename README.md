@@ -10,7 +10,7 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 ## About Data:
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
-## Analysis List (Whatever Analysis we have in this ):
+## Analysis List (Whatever Analysis we have done in this ):
 ### 1.Product Analysis:
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
